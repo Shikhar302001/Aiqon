@@ -1,0 +1,201 @@
+vessel_id,port_name,vessel_arrival_count,port_capacity,queue_length,weather_condition,historical_delay_hrs,arrival_delay_hrs,congestion_level
+VSL_001,Port of Shanghai,6,15,12,Moderate,4.77,14.57,High
+VSL_002,Port of Nhava Sheva,10,10,2,Severe,11.63,17.33,High
+VSL_003,Port of Los Angeles,26,25,1,Moderate,10.39,9.72,Medium
+VSL_004,Port of Nhava Sheva,15,10,2,Moderate,9.8,11.64,Medium
+VSL_005,Port of Nhava Sheva,20,25,6,Moderate,3.09,9.46,Medium
+VSL_006,Port of Rotterdam,20,15,0,Good,2.05,6.17,Low
+VSL_007,Port of Los Angeles,5,20,9,Moderate,8.02,12.04,High
+VSL_008,Port of Los Angeles,13,10,7,Moderate,11.15,13.88,High
+VSL_009,Port of Los Angeles,32,25,12,Bad,6.68,20.57,High
+VSL_010,Port of Nhava Sheva,31,10,9,Good,6.86,18.26,High
+VSL_011,Port of Shanghai,10,25,9,Good,3.36,11.2,Medium
+VSL_012,Port of Los Angeles,20,10,9,Severe,9.23,25.48,High
+VSL_013,Port of Nhava Sheva,33,25,13,Bad,2.24,20.07,High
+VSL_014,Port of Rotterdam,7,25,1,Good,3.88,2.96,Low
+VSL_015,Port of Shanghai,24,15,2,Moderate,5.11,11.14,High
+VSL_016,Port of Rotterdam,32,25,8,Good,6.09,12.15,High
+VSL_017,Port of Shanghai,31,15,6,Good,2.91,13.04,High
+VSL_018,Port of Nhava Sheva,8,25,3,Good,1.38,4.18,Low
+VSL_019,Port of Singapore,23,20,9,Good,7.33,11.67,High
+VSL_020,Port of Shanghai,30,20,4,Moderate,3.46,12.63,High
+VSL_021,Port of Rotterdam,7,20,1,Good,6.97,4.04,Low
+VSL_022,Port of Nhava Sheva,23,25,12,Severe,1.85,22.26,High
+VSL_023,Port of Shanghai,24,15,10,Severe,5.77,24.23,High
+VSL_024,Port of Singapore,11,15,12,Moderate,6.39,14.82,High
+VSL_025,Port of Singapore,24,25,7,Moderate,0.62,11.47,Medium
+VSL_026,Port of Los Angeles,13,20,3,Good,4.04,6.28,Low
+VSL_027,Port of Los Angeles,5,20,8,Bad,1.61,13.35,High
+VSL_028,Port of Rotterdam,12,15,4,Moderate,0.76,6.77,Low
+VSL_029,Port of Shanghai,11,20,12,Good,11.88,14.76,High
+VSL_030,Port of Shanghai,22,10,8,Bad,3.87,18.06,High
+VSL_031,Port of Los Angeles,12,15,3,Bad,9.72,14.67,High
+VSL_032,Port of Shanghai,5,20,9,Bad,3.06,14.27,High
+VSL_033,Port of Shanghai,15,15,4,Moderate,8.18,9.84,Medium
+VSL_034,Port of Singapore,32,10,8,Moderate,9.12,21.45,High
+VSL_035,Port of Los Angeles,29,15,7,Good,7.15,16.23,High
+VSL_036,Port of Nhava Sheva,29,15,2,Bad,5.66,14.14,High
+VSL_037,Port of Los Angeles,22,15,0,Bad,4.94,11.08,Medium
+VSL_038,Port of Nhava Sheva,27,15,2,Good,4.19,8.53,Medium
+VSL_039,Port of Singapore,34,10,3,Good,11.15,16.07,High
+VSL_040,Port of Rotterdam,14,25,1,Good,9.97,5.59,Low
+VSL_041,Port of Shanghai,7,15,0,Bad,11.58,9.89,Medium
+VSL_042,Port of Singapore,11,15,6,Severe,1.49,18.51,High
+VSL_043,Port of Shanghai,32,20,7,Good,8.77,16.12,High
+VSL_044,Port of Rotterdam,20,15,6,Moderate,11.26,15.42,High
+VSL_045,Port of Rotterdam,30,20,13,Good,2.17,14.81,High
+VSL_046,Port of Singapore,20,25,4,Severe,0.8,16.55,High
+VSL_047,Port of Rotterdam,29,10,11,Bad,8.89,25.38,High
+VSL_048,Port of Nhava Sheva,24,10,0,Bad,6.89,14.99,High
+VSL_049,Port of Rotterdam,32,25,6,Good,10.1,11.26,High
+VSL_050,Port of Shanghai,21,10,12,Good,1.68,17.16,High
+VSL_051,Port of Shanghai,6,25,6,Good,9.54,9.51,Medium
+VSL_052,Port of Shanghai,5,25,8,Good,2.42,9.3,Medium
+VSL_053,Port of Shanghai,20,25,2,Bad,1.96,10.17,Medium
+VSL_054,Port of Nhava Sheva,34,10,8,Bad,1.97,20.06,High
+VSL_055,Port of Los Angeles,16,20,13,Severe,9.77,25.82,High
+VSL_056,Port of Singapore,9,25,0,Severe,7.98,13.48,High
+VSL_057,Port of Shanghai,9,15,0,Moderate,6.28,5.01,Low
+VSL_058,Port of Rotterdam,31,10,13,Moderate,4.31,22.6,High
+VSL_059,Port of Shanghai,27,25,3,Bad,10.53,13.59,High
+VSL_060,Port of Rotterdam,13,25,8,Bad,4.71,14.26,High
+VSL_061,Port of Rotterdam,13,15,5,Good,9.8,10.74,Medium
+VSL_062,Port of Shanghai,7,20,12,Good,5.27,11.13,High
+VSL_063,Port of Nhava Sheva,23,20,10,Good,4.52,14.1,High
+VSL_064,Port of Rotterdam,20,20,2,Severe,5.55,15.16,High
+VSL_065,Port of Rotterdam,20,25,0,Moderate,3.62,7.09,Medium
+VSL_066,Port of Shanghai,7,25,3,Good,8.97,7.45,Low
+VSL_067,Port of Rotterdam,24,25,11,Moderate,6.03,14.81,High
+VSL_068,Port of Rotterdam,28,10,12,Moderate,2.79,20.73,High
+VSL_069,Port of Shanghai,26,15,8,Good,10.79,16.78,High
+VSL_070,Port of Shanghai,28,25,2,Good,4.61,5.94,Low
+VSL_071,Port of Singapore,5,15,11,Moderate,6.52,13.98,High
+VSL_072,Port of Nhava Sheva,28,15,8,Moderate,10.88,16.66,High
+VSL_073,Port of Nhava Sheva,24,20,6,Moderate,7.49,11.13,High
+VSL_074,Port of Rotterdam,15,10,11,Moderate,1.4,17.38,High
+VSL_075,Port of Nhava Sheva,21,25,13,Bad,11.28,20.71,High
+VSL_076,Port of Rotterdam,12,20,14,Moderate,7.53,18.03,High
+VSL_077,Port of Singapore,8,20,3,Moderate,4.02,6.75,Medium
+VSL_078,Port of Shanghai,10,25,2,Bad,1.67,7.88,Medium
+VSL_079,Port of Shanghai,12,15,9,Good,9.53,13.55,High
+VSL_080,Port of Shanghai,24,20,14,Good,7.44,17.6,High
+VSL_081,Port of Nhava Sheva,34,15,4,Good,6.4,11.29,High
+VSL_082,Port of Singapore,7,10,4,Moderate,10.73,11.25,Medium
+VSL_083,Port of Nhava Sheva,20,15,2,Moderate,9.46,11.16,Medium
+VSL_084,Port of Nhava Sheva,34,10,11,Moderate,1.82,22.83,High
+VSL_085,Port of Singapore,29,15,8,Good,3.74,12.48,High
+VSL_086,Port of Singapore,7,20,3,Good,2.98,6.63,Low
+VSL_087,Port of Singapore,29,20,10,Good,8.93,14.76,High
+VSL_088,Port of Singapore,33,10,4,Good,0.4,15.42,High
+VSL_089,Port of Shanghai,22,25,3,Moderate,6.84,9.14,Medium
+VSL_090,Port of Los Angeles,18,10,4,Good,9.15,12.5,High
+VSL_091,Port of Los Angeles,22,10,6,Good,10.52,16.31,High
+VSL_092,Port of Singapore,6,15,8,Bad,4.1,13.28,High
+VSL_093,Port of Los Angeles,26,15,6,Good,9.86,13.33,High
+VSL_094,Port of Los Angeles,7,10,12,Moderate,1.33,15.3,High
+VSL_095,Port of Singapore,20,20,4,Moderate,10.16,12.75,High
+VSL_096,Port of Los Angeles,33,15,9,Good,1.53,16.2,High
+VSL_097,Port of Nhava Sheva,13,25,9,Moderate,4.77,11.86,High
+VSL_098,Port of Rotterdam,8,15,6,Bad,9.57,14.18,High
+VSL_099,Port of Rotterdam,5,15,13,Bad,1.8,14.9,High
+VSL_100,Port of Singapore,8,25,14,Good,2.75,13.61,High
+VSL_101,Port of Shanghai,5,10,9,Bad,8.67,16.82,High
+VSL_102,Port of Singapore,18,25,4,Good,8.64,8.25,Medium
+VSL_103,Port of Shanghai,25,10,2,Good,7.69,12.63,High
+VSL_104,Port of Rotterdam,20,10,6,Good,8.33,12.97,High
+VSL_105,Port of Singapore,24,10,12,Severe,6.51,29.16,High
+VSL_106,Port of Nhava Sheva,28,25,10,Good,3.02,12.24,High
+VSL_107,Port of Los Angeles,12,10,10,Good,4.15,13.59,High
+VSL_108,Port of Shanghai,11,20,1,Moderate,2.18,5.84,Low
+VSL_109,Port of Los Angeles,7,25,14,Good,10.9,14.47,High
+VSL_110,Port of Los Angeles,21,20,11,Good,7.0,13.9,High
+VSL_111,Port of Singapore,5,10,8,Good,4.81,8.31,Medium
+VSL_112,Port of Los Angeles,20,15,9,Good,5.54,14.16,High
+VSL_113,Port of Nhava Sheva,16,10,9,Good,11.37,15.72,High
+VSL_114,Port of Los Angeles,31,20,11,Good,1.84,14.75,High
+VSL_115,Port of Singapore,23,20,0,Moderate,7.03,7.95,Medium
+VSL_116,Port of Nhava Sheva,26,25,12,Good,6.07,13.88,High
+VSL_117,Port of Rotterdam,27,15,5,Good,7.34,12.58,High
+VSL_118,Port of Los Angeles,26,25,6,Bad,0.22,14.53,High
+VSL_119,Port of Singapore,18,20,13,Good,10.47,16.32,High
+VSL_120,Port of Rotterdam,34,10,12,Moderate,11.19,25.23,High
+VSL_121,Port of Rotterdam,10,15,7,Good,6.78,8.48,Medium
+VSL_122,Port of Shanghai,10,10,9,Good,8.36,13.18,High
+VSL_123,Port of Nhava Sheva,17,10,8,Good,11.07,16.93,High
+VSL_124,Port of Los Angeles,23,15,1,Good,8.49,8.22,Medium
+VSL_125,Port of Singapore,26,25,10,Good,1.83,13.08,High
+VSL_126,Port of Shanghai,12,10,9,Good,6.92,13.15,High
+VSL_127,Port of Nhava Sheva,31,20,1,Good,7.28,8.61,Medium
+VSL_128,Port of Shanghai,31,10,4,Good,5.09,13.08,High
+VSL_129,Port of Nhava Sheva,6,15,12,Good,8.84,13.56,High
+VSL_130,Port of Nhava Sheva,25,15,4,Good,11.21,12.25,High
+VSL_131,Port of Los Angeles,34,15,5,Good,11.11,13.66,High
+VSL_132,Port of Nhava Sheva,5,25,2,Moderate,5.41,4.08,Low
+VSL_133,Port of Shanghai,32,10,7,Moderate,1.36,16.8,High
+VSL_134,Port of Nhava Sheva,19,25,12,Good,11.82,15.49,High
+VSL_135,Port of Los Angeles,5,25,0,Moderate,10.07,5.05,Low
+VSL_136,Port of Los Angeles,9,15,5,Moderate,1.5,7.69,Medium
+VSL_137,Port of Shanghai,32,15,3,Good,11.05,11.48,High
+VSL_138,Port of Rotterdam,33,25,0,Bad,10.44,11.94,High
+VSL_139,Port of Rotterdam,20,10,14,Bad,6.23,22.8,High
+VSL_140,Port of Nhava Sheva,23,20,6,Good,7.1,10.77,Medium
+VSL_141,Port of Singapore,8,25,8,Good,4.79,7.99,Medium
+VSL_142,Port of Nhava Sheva,7,10,12,Bad,0.66,16.64,High
+VSL_143,Port of Shanghai,21,15,3,Moderate,4.02,9.24,Medium
+VSL_144,Port of Shanghai,21,15,3,Good,9.63,9.99,Medium
+VSL_145,Port of Shanghai,16,10,5,Good,0.06,11.71,Medium
+VSL_146,Port of Shanghai,32,20,11,Good,4.0,13.82,High
+VSL_147,Port of Shanghai,34,15,14,Good,4.78,21.48,High
+VSL_148,Port of Los Angeles,33,15,2,Moderate,6.45,12.85,High
+VSL_149,Port of Rotterdam,18,15,12,Good,11.04,15.82,High
+VSL_150,Port of Shanghai,25,10,11,Good,4.16,18.47,High
+VSL_151,Port of Singapore,10,25,5,Moderate,4.16,9.05,Medium
+VSL_152,Port of Singapore,7,15,6,Good,8.85,9.53,Medium
+VSL_153,Port of Singapore,32,25,10,Good,5.43,14.99,High
+VSL_154,Port of Singapore,13,20,9,Moderate,2.7,11.22,High
+VSL_155,Port of Los Angeles,9,15,9,Bad,5.43,15.94,High
+VSL_156,Port of Singapore,28,15,2,Moderate,1.69,9.14,Medium
+VSL_157,Port of Shanghai,33,20,6,Moderate,2.12,13.09,High
+VSL_158,Port of Nhava Sheva,21,15,13,Good,5.98,15.96,High
+VSL_159,Port of Singapore,18,25,2,Good,5.03,7.4,Low
+VSL_160,Port of Los Angeles,25,10,12,Moderate,10.98,22.98,High
+VSL_161,Port of Los Angeles,7,25,12,Good,4.35,12.69,High
+VSL_162,Port of Singapore,32,10,1,Good,6.97,13.21,High
+VSL_163,Port of Nhava Sheva,5,10,11,Good,7.59,12.96,High
+VSL_164,Port of Singapore,24,25,13,Good,0.16,12.31,High
+VSL_165,Port of Los Angeles,33,25,9,Good,7.96,14.99,High
+VSL_166,Port of Rotterdam,25,25,3,Good,2.14,7.09,Medium
+VSL_167,Port of Shanghai,27,25,11,Good,11.53,14.64,High
+VSL_168,Port of Los Angeles,5,20,7,Good,1.78,8.4,Medium
+VSL_169,Port of Singapore,7,15,12,Bad,4.98,16.56,High
+VSL_170,Port of Shanghai,22,10,14,Moderate,1.02,21.3,High
+VSL_171,Port of Singapore,29,25,8,Moderate,11.96,15.65,High
+VSL_172,Port of Singapore,14,25,6,Moderate,6.03,10.66,Medium
+VSL_173,Port of Rotterdam,26,25,0,Good,7.14,6.2,Low
+VSL_174,Port of Shanghai,30,20,2,Good,0.8,7.64,Medium
+VSL_175,Port of Shanghai,7,25,12,Moderate,9.0,13.72,High
+VSL_176,Port of Rotterdam,12,25,11,Moderate,2.52,12.11,High
+VSL_177,Port of Los Angeles,18,25,13,Moderate,10.78,18.74,High
+VSL_178,Port of Singapore,28,15,8,Good,2.46,12.08,High
+VSL_179,Port of Nhava Sheva,22,20,14,Good,2.29,15.85,High
+VSL_180,Port of Singapore,19,25,11,Good,0.44,12.6,High
+VSL_181,Port of Singapore,26,10,0,Good,5.66,11.32,Medium
+VSL_182,Port of Los Angeles,27,10,8,Moderate,6.78,17.24,High
+VSL_183,Port of Singapore,6,10,7,Moderate,0.79,7.54,Medium
+VSL_184,Port of Rotterdam,31,20,0,Good,9.31,6.93,Medium
+VSL_185,Port of Rotterdam,14,20,5,Severe,5.44,17.45,High
+VSL_186,Port of Shanghai,6,10,4,Moderate,6.29,8.96,Medium
+VSL_187,Port of Nhava Sheva,30,25,5,Good,5.29,10.85,Medium
+VSL_188,Port of Singapore,21,20,9,Good,4.81,12.23,Medium
+VSL_189,Port of Singapore,12,10,11,Good,6.72,14.09,High
+VSL_190,Port of Los Angeles,5,10,12,Good,1.86,12.89,High
+VSL_191,Port of Rotterdam,13,25,12,Good,2.18,12.25,High
+VSL_192,Port of Nhava Sheva,15,15,12,Good,10.34,16.02,High
+VSL_193,Port of Shanghai,26,20,14,Good,11.35,19.25,High
+VSL_194,Port of Rotterdam,20,25,4,Good,4.48,9.04,Medium
+VSL_195,Port of Shanghai,11,10,5,Bad,3.25,12.91,High
+VSL_196,Port of Los Angeles,33,10,4,Good,7.73,17.49,High
+VSL_197,Port of Los Angeles,14,25,10,Moderate,4.9,13.69,High
+VSL_198,Port of Singapore,27,20,11,Good,0.3,13.91,High
+VSL_199,Port of Nhava Sheva,30,15,4,Severe,1.87,20.77,High
+VSL_200,Port of Shanghai,7,15,3,Good,8.59,8.35,Medium
